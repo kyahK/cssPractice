@@ -1,10 +1,10 @@
-#body{
+body{
     background-color: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
 a{
     text-decoration: none;
-    color:red ;
+    color:red;
 }
 
 hl, h2, h3{
