@@ -45,6 +45,7 @@ margin-right: auto;
 #main{
     width: 600px;
     float: right;
+    font-size: larger;
 }
 #footer{
     clear: both;
